@@ -1,5 +1,0 @@
---Début--
-
-un texte
-
---Fin--
