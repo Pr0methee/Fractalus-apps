@@ -1,0 +1,1 @@
+{"import_link": "import H.Apps.Space_Invaders.main as SpaceInvade", "image": "self.SI = IMG(r'H\\Apps\\Space_Invaders\\icon_si.png',self.CANVAS)", "FILES": "", "import_line": "self.ges.add('Space Invaders',lambda master:SpaceInvade.Jeu(master),self.SI)"}
