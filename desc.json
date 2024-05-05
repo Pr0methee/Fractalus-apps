@@ -1,6 +1,6 @@
-{"begin"}
+{"--début--"}
 {
   "admintools":["admin_para2.jpeg","admintool.py","form.py","importer.json"],
   "BooleCalc":["boolecalc.py","BooleCalculator.png","importer.json"]
 }
-{"end"}
+{"--fin--"}
