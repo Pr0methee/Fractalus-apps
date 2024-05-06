@@ -25,7 +25,7 @@
     "icon":"icone.png"
   },
   "word":{
-    "content":["boolecalc.py","LovelaceCode.png","importer.json"],
+    "content":["Text_edit.py","LovelaceCode.png","importer.json","apply.py","db_use.py","donn.py","executors.py","form.py","get_index.py","init_sympy.py","insertion.py","instaler.py","main.py","mef_window.py","redirectors.py","resize.py","style.py","verif_text.py"],
     "icon":"LovelaceCode.png"
   }
 }
