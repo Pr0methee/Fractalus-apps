@@ -1,0 +1,1 @@
+{"import_link":"import H.Apps.Conversions.main as Conv","image":"self.CONVERT =IMG(r'H\\Apps\\Conversions\\icon_convert.png',self.CANVAS)","FILES":"","import_line":"self.ges.add('Convertisseur',lambda master: Conv.run(master),self.CONVERT)"}
