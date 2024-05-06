@@ -1,0 +1,5 @@
+{
+    "import_link": "import H.Apps.word.main as word", 
+    "image": "self.LOVELACECODE = IMG(r'H\\Apps\\word\\LovelaceCode.png',self.CANVAS)", 
+    "FILES": "self.ges.add_infos('Lovelace Code',word.FILES[0][1])", 
+    "import_line": "word.initialize(self.session)\nself.ges.add('Lovelace Code',lambda master,link='',ASK=self.session.ask: word.App(master,link,ASK ),self.LOVELACECODE)"}
