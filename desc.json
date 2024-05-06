@@ -4,11 +4,11 @@
     "content":["boolecalc.py","BooleCalculator.png","importer.json"],
     "icon":"",
     "article":""
-  }
+  },
   "Space_Invaders":{
     "content":["icon_si.png","importer.json","main.py"],
     "icon":"",
     "article":""
-  }
+  },
 }
 {"--fin--"}
