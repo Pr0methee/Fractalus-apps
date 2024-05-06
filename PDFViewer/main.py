@@ -2,13 +2,14 @@ from tkinter import *
 import shutil,pdf2image,os
 import tkinter.ttk as ttk
 import tkinter.filedialog as filedialog, H.Apps.PDFViewer.resize as resize
+from PersonalWidgets import PopingToplevel
 #import resize
 
 FILES = [
     ("PDF",'.pdf')
 ]
 
-class PDFViewer(Toplevel):
+class PDFViewer(PopingToplevel):
     def __init__(self,parent:Tk,open_proc = lambda files,master: filedialog.askopenfilename(filetypes=files,parent=master),file=''):
         """Affiche le pdf"""
         super().__init__(parent)
