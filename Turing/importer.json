@@ -1,0 +1,6 @@
+{
+    "import_link": "import H.Apps.Turing.main as Turing", 
+    "image": "self.TURING = IMG(r'H\\Apps\\Turing\\icone.png',self.CANVAS)", 
+    "FILES": "self.ges.add_infos('Turing Executor',Turing.FILES[0][1])", 
+    "import_line": "self.ges.add('Turing Executor',lambda master,link='',ASK=self.session.ask: Turing.App(master,link,ASK ),self.TURING)"
+}
