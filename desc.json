@@ -4,9 +4,29 @@
     "content":["boolecalc.py","BooleCalculator.png","importer.json"],
     "icon":"BooleCalculator.png"
   },
+  "Conversions":{
+    "content":["conversion.py","c.png","importer.json","main.py"],
+    "icon":"icon_convert.png"
+  },
+  "PDFViewer":{
+    "content":["main.py","PDF_icon.png","importer.json","resize.py"],
+    "icon":"PDF_icon.png"
+  },
   "Space_Invaders":{
     "content":["icon_si.png","importer.json","main.py"],
     "icon":"icon_si.png"
+  },
+  "Terminal":{
+    "content":["_cmd_.py","Terminal.png","importer.json"],
+    "icon":"Terminal.png"
+  },
+  "Turing":{
+    "content":["drawings.py","icone.png","importer.json","form.py","main.pyw"],
+    "icon":"icone.png"
+  },
+  "word":{
+    "content":["boolecalc.py","LovelaceCode.png","importer.json"],
+    "icon":"LovelaceCode.png"
   }
 }
 {"--fin--"}
