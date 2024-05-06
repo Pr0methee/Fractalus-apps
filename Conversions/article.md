@@ -1,0 +1,3 @@
+#Conversions
+
+This is a little app to make conversions in different basises like base 2, 8, 16 or IEEE,...
