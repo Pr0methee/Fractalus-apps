@@ -1,7 +1,14 @@
 {"--début--"}
 {
-  "BooleCalc":["boolecalc.py","BooleCalculator.png","importer.json"],
-  "Excel":["form.py","main.py","excel.jpeg","importer.json"],
-  "Space_Invaders":["icon_si.png","importer.json","main.py"]
+  "BooleCalc":{
+    "content":["boolecalc.py","BooleCalculator.png","importer.json"],
+    "icon":"",
+    "article":""
+  }
+  "Space_Invaders":{
+    "content":["icon_si.png","importer.json","main.py"],
+    "icon":"",
+    "article":""
+  }
 }
 {"--fin--"}
