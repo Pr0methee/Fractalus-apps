@@ -1,0 +1,1 @@
+{"import_link": "import H.Apps.PDFViewer.main as PDFViewer", "image": "self.PDF = IMG(r'H\\Apps\\PDFViewer\\PDF_icon.png',self.CANVAS)", "FILES": "self.ges.add_infos('PDF Viewer',PDFViewer.FILES[0][1])", "import_line": "self.ges.add('PDF Viewer',lambda master, link='',ASK=self.session.ask: PDFViewer.PDFViewer(master,ASK,link),self.PDF)"}
