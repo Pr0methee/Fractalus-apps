@@ -1,0 +1,1 @@
+{"import_link":"import H.Apps.BooleCalc.boolecalc as boolecalc","image":"self.BOOLECALC = IMG(r'H\\Apps\\BooleCalc\\BooleCalculator.png',self.CANVAS)","FILES":"","import_line":"self.ges.add('Boole Calculator',lambda master:boolecalc.Calculator(master),self.BOOLECALC)"}
