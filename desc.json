@@ -2,12 +2,12 @@
 {
   "BooleCalc":{
     "content":["boolecalc.py","BooleCalculator.png","importer.json"],
-    "icon":"",
+    "icon":"BooleCalculator.png",
     "article":""
   },
   "Space_Invaders":{
     "content":["icon_si.png","importer.json","main.py"],
-    "icon":"",
+    "icon":"icon_si.png",
     "article":""
   }
 }
