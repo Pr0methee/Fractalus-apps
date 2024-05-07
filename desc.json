@@ -13,7 +13,7 @@
   "PDFViewer":{
     "content":["main.py","PDF_icon.png","importer.json","resize.py"],
     "icon":"PDF_icon.png",
-    "VERSION":1
+    "VERSION":2
   },
   "Space_Invaders":{
     "content":["icon_si.png","importer.json","main.py"],
