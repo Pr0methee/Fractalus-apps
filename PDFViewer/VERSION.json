@@ -1,4 +1,4 @@
 {
     "VERSION":2,
-    "UPDATES":[]
+    "UPDATES":["rewrite main.py"]
 }
