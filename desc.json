@@ -2,31 +2,38 @@
 {
   "BooleCalc":{
     "content":["boolecalc.py","BooleCalculator.png","importer.json"],
-    "icon":"BooleCalculator.png"
+    "icon":"BooleCalculator.png",
+    "VERSION":1
   },
   "Conversions":{
     "content":["conversion.py","c.png","importer.json","main.py"],
-    "icon":"icon_convert.png"
+    "icon":"icon_convert.png",
+    "VERSION":1
   },
   "PDFViewer":{
     "content":["main.py","PDF_icon.png","importer.json","resize.py"],
-    "icon":"PDF_icon.png"
+    "icon":"PDF_icon.png",
+    "VERSION":1
   },
   "Space_Invaders":{
     "content":["icon_si.png","importer.json","main.py"],
-    "icon":"icon_si.png"
+    "icon":"icon_si.png",
+    "VERSION":1
   },
   "Terminal":{
     "content":["_cmd_.py","Terminal.png","importer.json"],
-    "icon":"Terminal.png"
+    "icon":"Terminal.png",
+    "VERSION":1
   },
   "Turing":{
     "content":["drawings.py","icone.png","importer.json","form.py","main.pyw"],
-    "icon":"icone.png"
+    "icon":"icone.png",
+    "VERSION":1
   },
   "word":{
     "content":["Text_edit.py","LovelaceCode.png","importer.json","apply.py","db_use.py","donn.py","executors.py","form.py","get_index.py","init_sympy.py","insertion.py","instaler.py","main.py","mef_window.py","redirectors.py","resize.py","style.py","verif_text.py"],
-    "icon":"LovelaceCode.png"
+    "icon":"LovelaceCode.png",
+    "VERSION":1
   }
 }
 {"--fin--"}
