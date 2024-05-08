@@ -1,37 +1,37 @@
 {"--début--"}
 {
   "BooleCalc":{
-    "content":["boolecalc.py","BooleCalculator.png","importer.json"],
+    "content":["boolecalc.py","BooleCalculator.png","importer.json","VERSION.json"],
     "icon":"BooleCalculator.png",
     "VERSION":1
   },
   "Conversions":{
-    "content":["conversion.py","c.png","importer.json","main.py"],
+    "content":["conversion.py","c.png","importer.json","main.py","VERSION.json"],
     "icon":"icon_convert.png",
     "VERSION":1
   },
   "PDFViewer":{
-    "content":["main.py","PDF_icon.png","importer.json","resize.py"],
+    "content":["main.py","PDF_icon.png","importer.json","resize.py","VERSION.json"],
     "icon":"PDF_icon.png",
     "VERSION":2
   },
   "Space_Invaders":{
-    "content":["icon_si.png","importer.json","main.py"],
+    "content":["icon_si.png","importer.json","main.py","VERSION.json"],
     "icon":"icon_si.png",
     "VERSION":1
   },
   "Terminal":{
-    "content":["_cmd_.py","Terminal.png","importer.json"],
+    "content":["_cmd_.py","Terminal.png","importer.json","VERSION.json"],
     "icon":"Terminal.png",
     "VERSION":1
   },
   "Turing":{
-    "content":["drawings.py","icone.png","importer.json","form.py","main.pyw"],
+    "content":["drawings.py","icone.png","importer.json","form.py","main.pyw","VERSION.json"],
     "icon":"icone.png",
     "VERSION":1
   },
   "word":{
-    "content":["Text_edit.py","LovelaceCode.png","importer.json","apply.py","db_use.py","donn.py","executors.py","form.py","get_index.py","init_sympy.py","insertion.py","instaler.py","main.py","mef_window.py","redirectors.py","resize.py","style.py","verif_text.py"],
+    "content":["Text_edit.py","LovelaceCode.png","importer.json","apply.py","db_use.py","donn.py","executors.py","form.py","get_index.py","init_sympy.py","insertion.py","instaler.py","main.py","mef_window.py","redirectors.py","resize.py","style.py","verif_text.py","VERSION.json"],
     "icon":"LovelaceCode.png",
     "VERSION":1
   }
