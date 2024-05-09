@@ -6,7 +6,7 @@
     "VERSION":1
   },
   "Conversions":{
-    "content":["conversion.py","c.png","importer.json","main.py","VERSION.json"],
+    "content":["conversion.py","icon_convert.png","importer.json","main.py","VERSION.json"],
     "icon":"icon_convert.png",
     "VERSION":1
   },
