@@ -1,0 +1,1 @@
+{"import_link":"import H.Apps.admintools.admintool as admintool","image":"self.ADMIN_PARA = IMG(r'H\\Apps\\admintools\\admin_para2.jpg',self.CANVAS)","FILES":"","import_line":"if user=='admin':self.ges.add('Paramètres Administrateur',lambda master:admintool.AdminInterface(master),self.ADMIN_PARA)"}
