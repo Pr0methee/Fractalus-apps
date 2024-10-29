@@ -1,8 +1,12 @@
 {"--début--"}
 {
   "Heart":[],
-  "Necessary Apps" : [
-    
-  ]
+  "Necessary Apps" : {
+    "Gestionnaire":["gestion_tache.py","gestionnaire_taches.jpg"],
+    "Updater":["form.py","icon.png","importer.json","main.py","markdown_tk.py"],
+    "admintools":["admin_para2.jpg","admintool.py","form.py","importer.json"],
+    "desktools":["bat.png","buste.jpg","buste_.gif","change.png","horloge.png","koch.png","power.png","tools.py"],
+    "explorateur":["disquette.png","dos4.png","explorateur.gif","explorateur.png","exploreur.py","importer.json","page2.png","photo.png"]
+  }
 }
 {"--fin--"}
