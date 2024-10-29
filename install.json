@@ -7,7 +7,7 @@
   "Wallpapers_description":{
     "location":"Wallpapers",
     "content":["fond4.jpg","fond5.jpg","fond6.jpg","fond7.jpg","fond8.jpg","fond9.jpg","fond10.jpg","fond11.jpg","fond12.jpg","fond13.jpg","fond14.jpg","fond15.jpg","fond16.jpg","fond17.jpg","fond18.jpg","fond19.jpg","fond20.jpg","fond21.jpg","fond22.jpg"]
-  }
+  },
   "Necessary Apps" : {
     "Gestionnaire":["gestion_tache.py","gestionnaire_taches.jpg"],
     "Updater":["form.py","icon.png","importer.json","main.py","markdown_tk.py"],
