@@ -1,0 +1,1 @@
+class LaunchAgain(Exception):pass
