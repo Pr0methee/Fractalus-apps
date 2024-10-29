@@ -1,0 +1,6 @@
+{
+    "import_link":"import H.Apps.Updater.main as updater",
+    "image":"self.UPDATER = IMG(r'H\\Apps\\Updater\\icon.png',self.CANVAS)\nself.load = updater.Loader()",
+    "FILES":"",
+    "import_line":"if user=='admin':self.ges.add('Instalateur',lambda master,load=self.load:updater.Loading_App(master,load),self.UPDATER)"
+}
