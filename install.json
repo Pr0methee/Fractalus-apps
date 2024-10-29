@@ -1,6 +1,9 @@
 {"--début--"}
 {
-  "Heart":[],
+  "Heart_description":{
+    "location":"Heart",
+    "content":["App.pyw","PersonnalWidgets.py"]
+  }
   "Necessary Apps" : {
     "Gestionnaire":["gestion_tache.py","gestionnaire_taches.jpg"],
     "Updater":["form.py","icon.png","importer.json","main.py","markdown_tk.py"],
