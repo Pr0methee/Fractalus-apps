@@ -50,4 +50,4 @@ def cached_resize(size_:int|float,dim:int,open_file:str):
 
     size = tuple(int(k*arg) for arg in first_size)
 
-    return img.resize(size,Image.ANTIALIAS)
+    return img.resize(size,Image.LANCZOS)
